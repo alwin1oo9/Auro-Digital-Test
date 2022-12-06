@@ -1,0 +1,136 @@
+book-1
+SELL
+{'book': 'book-1', 'operation': 'SELL', 'price': '100.30', 'volume': 55.0, 'orderId': '3169760', 'Time': 4999128}
+{'book': 'book-1', 'operation': 'SELL', 'price': '100.30', 'volume': 21.0, 'orderId': '3170158', 'Time': 4999752}
+{'book': 'book-1', 'operation': 'SELL', 'price': '100.30', 'volume': 84.0, 'orderId': '3170224', 'Time': 4999857}
+{'book': 'book-1', 'operation': 'SELL', 'price': '100.40', 'volume': 12.0, 'orderId': '3160571', 'Time': 4984714}
+{'book': 'book-1', 'operation': 'SELL', 'price': '100.40', 'volume': 5.0, 'orderId': '3160608', 'Time': 4984773}
+{'book': 'book-1', 'operation': 'SELL', 'price': '100.40', 'volume': 62.0, 'orderId': '3170019', 'Time': 4999542}
+{'book': 'book-1', 'operation': 'SELL', 'price': '100.40', 'volume': 45.0, 'orderId': '3170185', 'Time': 4999795}
+{'book': 'book-1', 'operation': 'SELL', 'price': '100.50', 'volume': 53.0, 'orderId': '3170015', 'Time': 4999533}
+{'book': 'book-1', 'operation': 'SELL', 'price': '100.50', 'volume': 88.0, 'orderId': '3170146', 'Time': 4999736}
+{'book': 'book-1', 'operation': 'SELL', 'price': '100.50', 'volume': 84.0, 'orderId': '3170227', 'Time': 4999860}
+{'book': 'book-1', 'operation': 'SELL', 'price': '100.50', 'volume': 85.0, 'orderId': '3170282', 'Time': 4999945}
+{'book': 'book-1', 'operation': 'SELL', 'price': '100.50', 'volume': 76.0, 'orderId': '3170297', 'Time': 4999970}
+{'book': 'book-1', 'operation': 'SELL', 'price': '100.60', 'volume': 20.0, 'orderId': '3169990', 'Time': 4999493}
+{'book': 'book-1', 'operation': 'SELL', 'price': '100.60', 'volume': 34.0, 'orderId': '3170270', 'Time': 4999925}
+{'book': 'book-1', 'operation': 'SELL', 'price': '100.70', 'volume': 55.0, 'orderId': '3169868', 'Time': 4999297}
+{'book': 'book-1', 'operation': 'SELL', 'price': '100.80', 'volume': 63.0, 'orderId': '3169936', 'Time': 4999411}
+{'book': 'book-1', 'operation': 'SELL', 'price': '100.90', 'volume': 38.0, 'orderId': '3170189', 'Time': 4999801}
+{'book': 'book-1', 'operation': 'SELL', 'price': '100.90', 'volume': 69.0, 'orderId': '3170245', 'Time': 4999888}
+{'book': 'book-1', 'operation': 'SELL', 'price': '100.90', 'volume': 35.0, 'orderId': '3170287', 'Time': 4999953}
+{'book': 'book-1', 'operation': 'SELL', 'price': '101.00', 'volume': 73.0, 'orderId': '3170252', 'Time': 4999898}
+{'book': 'book-1', 'operation': 'SELL', 'price': '101.20', 'volume': 19.0, 'orderId': '3169927', 'Time': 4999398}
+BUY
+{'book': 'book-1', 'operation': 'BUY', 'price': ' 99.90', 'volume': 30.0, 'orderId': '3170045', 'Time': 4999585}
+{'book': 'book-1', 'operation': 'BUY', 'price': ' 99.90', 'volume': 89.0, 'orderId': '3170159', 'Time': 4999755}
+{'book': 'book-1', 'operation': 'BUY', 'price': ' 99.90', 'volume': 3.0, 'orderId': '3170205', 'Time': 4999831}
+{'book': 'book-1', 'operation': 'BUY', 'price': ' 99.90', 'volume': 24.0, 'orderId': '3170264', 'Time': 4999915}
+{'book': 'book-1', 'operation': 'BUY', 'price': ' 99.80', 'volume': 68.0, 'orderId': '3169922', 'Time': 4999391}
+{'book': 'book-1', 'operation': 'BUY', 'price': ' 99.80', 'volume': 42.0, 'orderId': '3169951', 'Time': 4999437}
+{'book': 'book-1', 'operation': 'BUY', 'price': ' 99.80', 'volume': 50.0, 'orderId': '3170311', 'Time': 4999993}
+{'book': 'book-1', 'operation': 'BUY', 'price': ' 99.70', 'volume': 40.0, 'orderId': '3169949', 'Time': 4999434}
+{'book': 'book-1', 'operation': 'BUY', 'price': ' 99.70', 'volume': 21.0, 'orderId': '3170306', 'Time': 4999983}
+{'book': 'book-1', 'operation': 'BUY', 'price': ' 99.60', 'volume': 71.0, 'orderId': '3170029', 'Time': 4999559}
+{'book': 'book-1', 'operation': 'BUY', 'price': ' 99.60', 'volume': 85.0, 'orderId': '3170253', 'Time': 4999900}
+{'book': 'book-1', 'operation': 'BUY', 'price': ' 99.60', 'volume': 50.0, 'orderId': '3170277', 'Time': 4999937}
+{'book': 'book-1', 'operation': 'BUY', 'price': ' 99.60', 'volume': 67.0, 'orderId': '3170284', 'Time': 4999948}
+{'book': 'book-1', 'operation': 'BUY', 'price': ' 99.60', 'volume': 69.0, 'orderId': '3170315', 'Time': 4999999}
+{'book': 'book-1', 'operation': 'BUY', 'price': ' 99.50', 'volume': 85.0, 'orderId': '3170026', 'Time': 4999554}
+{'book': 'book-1', 'operation': 'BUY', 'price': ' 99.50', 'volume': 50.0, 'orderId': '3170190', 'Time': 4999804}
+{'book': 'book-1', 'operation': 'BUY', 'price': ' 99.50', 'volume': 1.0, 'orderId': '3170275', 'Time': 4999932}
+{'book': 'book-1', 'operation': 'BUY', 'price': ' 99.40', 'volume': 2.0, 'orderId': '3169716', 'Time': 4999056}
+{'book': 'book-1', 'operation': 'BUY', 'price': ' 99.40', 'volume': 66.0, 'orderId': '3170166', 'Time': 4999766}
+{'book': 'book-1', 'operation': 'BUY', 'price': ' 99.10', 'volume': 88.0, 'orderId': '3169956', 'Time': 4999443}
+{'book': 'book-1', 'operation': 'BUY', 'price': ' 99.10', 'volume': 57.0, 'orderId': '3170144', 'Time': 4999734}
+{'book': 'book-1', 'operation': 'BUY', 'price': ' 99.10', 'volume': 41.0, 'orderId': '3170193', 'Time': 4999809}
+book-3
+SELL
+{'book': 'book-3', 'operation': 'SELL', 'price': '100.10', 'volume': 29.0, 'orderId': '3170308', 'Time': 4999988}
+{'book': 'book-3', 'operation': 'SELL', 'price': '100.20', 'volume': 25.0, 'orderId': '3170098', 'Time': 4999664}
+{'book': 'book-3', 'operation': 'SELL', 'price': '100.30', 'volume': 34.0, 'orderId': '3169807', 'Time': 4999208}
+{'book': 'book-3', 'operation': 'SELL', 'price': '100.30', 'volume': 5.0, 'orderId': '3170033', 'Time': 4999568}
+{'book': 'book-3', 'operation': 'SELL', 'price': '100.30', 'volume': 48.0, 'orderId': '3170112', 'Time': 4999687}
+{'book': 'book-3', 'operation': 'SELL', 'price': '100.30', 'volume': 63.0, 'orderId': '3170204', 'Time': 4999830}
+{'book': 'book-3', 'operation': 'SELL', 'price': '100.30', 'volume': 25.0, 'orderId': '3170250', 'Time': 4999893}
+{'book': 'book-3', 'operation': 'SELL', 'price': '100.30', 'volume': 89.0, 'orderId': '3170299', 'Time': 4999973}
+{'book': 'book-3', 'operation': 'SELL', 'price': '100.40', 'volume': 63.0, 'orderId': '3168302', 'Time': 4996830}
+{'book': 'book-3', 'operation': 'SELL', 'price': '100.40', 'volume': 72.0, 'orderId': '3170118', 'Time': 4999699}
+{'book': 'book-3', 'operation': 'SELL', 'price': '100.50', 'volume': 60.0, 'orderId': '3170212', 'Time': 4999840}
+{'book': 'book-3', 'operation': 'SELL', 'price': '100.60', 'volume': 84.0, 'orderId': '3170151', 'Time': 4999743}
+{'book': 'book-3', 'operation': 'SELL', 'price': '100.60', 'volume': 32.0, 'orderId': '3170171', 'Time': 4999774}
+{'book': 'book-3', 'operation': 'SELL', 'price': '100.60', 'volume': 25.0, 'orderId': '3170296', 'Time': 4999969}
+{'book': 'book-3', 'operation': 'SELL', 'price': '100.60', 'volume': 25.0, 'orderId': '3170305', 'Time': 4999981}
+{'book': 'book-3', 'operation': 'SELL', 'price': '100.70', 'volume': 83.0, 'orderId': '3170160', 'Time': 4999756}
+{'book': 'book-3', 'operation': 'SELL', 'price': '100.80', 'volume': 22.0, 'orderId': '3170011', 'Time': 4999525}
+{'book': 'book-3', 'operation': 'SELL', 'price': '100.90', 'volume': 55.0, 'orderId': '3169946', 'Time': 4999429}
+{'book': 'book-3', 'operation': 'SELL', 'price': '100.90', 'volume': 17.0, 'orderId': '3170103', 'Time': 4999672}
+{'book': 'book-3', 'operation': 'SELL', 'price': '101.00', 'volume': 53.0, 'orderId': '3170247', 'Time': 4999890}
+{'book': 'book-3', 'operation': 'SELL', 'price': '101.10', 'volume': 86.0, 'orderId': '3169652', 'Time': 4998955}
+{'book': 'book-3', 'operation': 'SELL', 'price': '101.30', 'volume': 1.0, 'orderId': '3170258', 'Time': 4999907}
+{'book': 'book-3', 'operation': 'SELL', 'price': '101.40', 'volume': 43.0, 'orderId': '3169964', 'Time': 4999456}
+BUY
+{'book': 'book-3', 'operation': 'BUY', 'price': ' 99.90', 'volume': 99.0, 'orderId': '3170255', 'Time': 4999903}
+{'book': 'book-3', 'operation': 'BUY', 'price': ' 99.90', 'volume': 85.0, 'orderId': '3170281', 'Time': 4999943}
+{'book': 'book-3', 'operation': 'BUY', 'price': ' 99.80', 'volume': 89.0, 'orderId': '3170221', 'Time': 4999851}
+{'book': 'book-3', 'operation': 'BUY', 'price': ' 99.70', 'volume': 8.0, 'orderId': '3169853', 'Time': 4999273}
+{'book': 'book-3', 'operation': 'BUY', 'price': ' 99.60', 'volume': 14.0, 'orderId': '3169440', 'Time': 4998623}
+{'book': 'book-3', 'operation': 'BUY', 'price': ' 99.60', 'volume': 17.0, 'orderId': '3169805', 'Time': 4999205}
+{'book': 'book-3', 'operation': 'BUY', 'price': ' 99.60', 'volume': 38.0, 'orderId': '3169989', 'Time': 4999492}
+{'book': 'book-3', 'operation': 'BUY', 'price': ' 99.60', 'volume': 66.0, 'orderId': '3170182', 'Time': 4999790}
+{'book': 'book-3', 'operation': 'BUY', 'price': ' 99.60', 'volume': 70.0, 'orderId': '3170248', 'Time': 4999891}
+{'book': 'book-3', 'operation': 'BUY', 'price': ' 99.50', 'volume': 53.0, 'orderId': '3169770', 'Time': 4999149}
+{'book': 'book-3', 'operation': 'BUY', 'price': ' 99.50', 'volume': 4.0, 'orderId': '3170089', 'Time': 4999651}
+{'book': 'book-3', 'operation': 'BUY', 'price': ' 99.50', 'volume': 99.0, 'orderId': '3170109', 'Time': 4999683}
+{'book': 'book-3', 'operation': 'BUY', 'price': ' 99.50', 'volume': 51.0, 'orderId': '3170289', 'Time': 4999956}
+{'book': 'book-3', 'operation': 'BUY', 'price': ' 99.40', 'volume': 82.0, 'orderId': '3169822', 'Time': 4999227}
+{'book': 'book-3', 'operation': 'BUY', 'price': ' 99.40', 'volume': 10.0, 'orderId': '3170134', 'Time': 4999724}
+{'book': 'book-3', 'operation': 'BUY', 'price': ' 99.40', 'volume': 60.0, 'orderId': '3170173', 'Time': 4999778}
+{'book': 'book-3', 'operation': 'BUY', 'price': ' 99.20', 'volume': 46.0, 'orderId': '3170273', 'Time': 4999929}
+{'book': 'book-3', 'operation': 'BUY', 'price': ' 98.80', 'volume': 86.0, 'orderId': '3170267', 'Time': 4999920}
+book-2
+SELL
+{'book': 'book-2', 'operation': 'SELL', 'price': '100.10', 'volume': 33.0, 'orderId': '3170215', 'Time': 4999844}
+{'book': 'book-2', 'operation': 'SELL', 'price': '100.30', 'volume': 9.0, 'orderId': '3168968', 'Time': 4997879}
+{'book': 'book-2', 'operation': 'SELL', 'price': '100.30', 'volume': 29.0, 'orderId': '3170044', 'Time': 4999582}
+{'book': 'book-2', 'operation': 'SELL', 'price': '100.30', 'volume': 49.0, 'orderId': '3170062', 'Time': 4999608}
+{'book': 'book-2', 'operation': 'SELL', 'price': '100.30', 'volume': 34.0, 'orderId': '3170164', 'Time': 4999763}
+{'book': 'book-2', 'operation': 'SELL', 'price': '100.40', 'volume': 84.0, 'orderId': '3169991', 'Time': 4999495}
+{'book': 'book-2', 'operation': 'SELL', 'price': '100.50', 'volume': 52.0, 'orderId': '3170079', 'Time': 4999635}
+{'book': 'book-2', 'operation': 'SELL', 'price': '100.50', 'volume': 9.0, 'orderId': '3170092', 'Time': 4999654}
+{'book': 'book-2', 'operation': 'SELL', 'price': '100.50', 'volume': 45.0, 'orderId': '3170154', 'Time': 4999747}
+{'book': 'book-2', 'operation': 'SELL', 'price': '100.60', 'volume': 54.0, 'orderId': '3169560', 'Time': 4998808}
+{'book': 'book-2', 'operation': 'SELL', 'price': '100.60', 'volume': 90.0, 'orderId': '3170220', 'Time': 4999850}
+{'book': 'book-2', 'operation': 'SELL', 'price': '100.60', 'volume': 94.0, 'orderId': '3170269', 'Time': 4999924}
+{'book': 'book-2', 'operation': 'SELL', 'price': '100.60', 'volume': 48.0, 'orderId': '3170276', 'Time': 4999936}
+{'book': 'book-2', 'operation': 'SELL', 'price': '100.60', 'volume': 35.0, 'orderId': '3170286', 'Time': 4999951}
+{'book': 'book-2', 'operation': 'SELL', 'price': '100.70', 'volume': 96.0, 'orderId': '3169958', 'Time': 4999448}
+{'book': 'book-2', 'operation': 'SELL', 'price': '100.70', 'volume': 89.0, 'orderId': '3170314', 'Time': 4999998}
+{'book': 'book-2', 'operation': 'SELL', 'price': '100.80', 'volume': 68.0, 'orderId': '3170073', 'Time': 4999624}
+{'book': 'book-2', 'operation': 'SELL', 'price': '100.80', 'volume': 53.0, 'orderId': '3170135', 'Time': 4999725}
+{'book': 'book-2', 'operation': 'SELL', 'price': '100.90', 'volume': 7.0, 'orderId': '3170187', 'Time': 4999799}
+{'book': 'book-2', 'operation': 'SELL', 'price': '100.90', 'volume': 70.0, 'orderId': '3170312', 'Time': 4999995}
+BUY
+{'book': 'book-2', 'operation': 'BUY', 'price': '100.00', 'volume': 55.0, 'orderId': '3170271', 'Time': 4999927}
+{'book': 'book-2', 'operation': 'BUY', 'price': '100.00', 'volume': 54.0, 'orderId': '3170300', 'Time': 4999974}
+{'book': 'book-2', 'operation': 'BUY', 'price': ' 99.90', 'volume': 14.0, 'orderId': '3170108', 'Time': 4999680}
+{'book': 'book-2', 'operation': 'BUY', 'price': ' 99.90', 'volume': 44.0, 'orderId': '3170184', 'Time': 4999792}
+{'book': 'book-2', 'operation': 'BUY', 'price': ' 99.80', 'volume': 37.0, 'orderId': '3169457', 'Time': 4998647}
+{'book': 'book-2', 'operation': 'BUY', 'price': ' 99.80', 'volume': 8.0, 'orderId': '3170293', 'Time': 4999962}
+{'book': 'book-2', 'operation': 'BUY', 'price': ' 99.80', 'volume': 14.0, 'orderId': '3170304', 'Time': 4999980}
+{'book': 'book-2', 'operation': 'BUY', 'price': ' 99.80', 'volume': 90.0, 'orderId': '3170309', 'Time': 4999989}
+{'book': 'book-2', 'operation': 'BUY', 'price': ' 99.70', 'volume': 13.0, 'orderId': '3168800', 'Time': 4997610}
+{'book': 'book-2', 'operation': 'BUY', 'price': ' 99.70', 'volume': 51.0, 'orderId': '3170020', 'Time': 4999543}
+{'book': 'book-2', 'operation': 'BUY', 'price': ' 99.70', 'volume': 59.0, 'orderId': '3170113', 'Time': 4999689}
+{'book': 'book-2', 'operation': 'BUY', 'price': ' 99.70', 'volume': 42.0, 'orderId': '3170148', 'Time': 4999738}
+{'book': 'book-2', 'operation': 'BUY', 'price': ' 99.70', 'volume': 57.0, 'orderId': '3170256', 'Time': 4999904}
+{'book': 'book-2', 'operation': 'BUY', 'price': ' 99.60', 'volume': 22.0, 'orderId': '3168506', 'Time': 4997157}
+{'book': 'book-2', 'operation': 'BUY', 'price': ' 99.60', 'volume': 18.0, 'orderId': '3170236', 'Time': 4999875}
+{'book': 'book-2', 'operation': 'BUY', 'price': ' 99.60', 'volume': 93.0, 'orderId': '3170301', 'Time': 4999975}
+{'book': 'book-2', 'operation': 'BUY', 'price': ' 99.50', 'volume': 17.0, 'orderId': '3170197', 'Time': 4999817}
+{'book': 'book-2', 'operation': 'BUY', 'price': ' 99.50', 'volume': 12.0, 'orderId': '3170242', 'Time': 4999883}
+{'book': 'book-2', 'operation': 'BUY', 'price': ' 99.40', 'volume': 81.0, 'orderId': '3170251', 'Time': 4999896}
+{'book': 'book-2', 'operation': 'BUY', 'price': ' 99.40', 'volume': 52.0, 'orderId': '3170310', 'Time': 4999991}
+{'book': 'book-2', 'operation': 'BUY', 'price': ' 99.30', 'volume': 45.0, 'orderId': '3170132', 'Time': 4999721}
+{'book': 'book-2', 'operation': 'BUY', 'price': ' 99.30', 'volume': 10.0, 'orderId': '3170298', 'Time': 4999972}
+{'book': 'book-2', 'operation': 'BUY', 'price': ' 99.10', 'volume': 87.0, 'orderId': '3170157', 'Time': 4999751}
